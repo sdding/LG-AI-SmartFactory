@@ -1,7 +1,7 @@
 # LG-AI-SmartFactory
 ![image](https://github.com/sdding/LG-AI-SmartFactory/assets/86766081/80c81755-7b22-4621-b9b3-bbfcc400efca)
 
-### Dacon : https://dacon.io/competitions/official/235954/overview/description
+### Dacon : [https://dacon.io/competitions/official/236055/overview/description]
 # 배경
 펜데믹을 맞이한 최근 몇 년간 제조 운영과 공급망의 디지털 혁신은 관련 산업 분야에서 최우선 과제로 급부상했습니다.
 스마트 공장은 공정 데이터에서 인사이트를 발굴하고 해석하여 추세를 예측하고, 스마트 제조 워크플로와 자동화된 프로세스를 구현합니다.
