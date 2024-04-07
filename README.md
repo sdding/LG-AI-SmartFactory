@@ -1,4 +1,3 @@
-# LG-AI-SmartFactory
 ![image](https://github.com/sdding/LG-AI-SmartFactory/assets/86766081/80c81755-7b22-4621-b9b3-bbfcc400efca)
 
 ### Dacon : https://dacon.io/competitions/official/236055/overview/description
